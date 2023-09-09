@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I pursue lifelong learning and skill development after work and on weekends.
+
+![Static Badge](https://img.shields.io/badge/Java)
