@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I pursue lifelong learning and skill development after work and on weekends.
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Java">
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
