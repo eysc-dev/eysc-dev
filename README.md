@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ---
-#### I pursue lifelong learning and skill development after work and on weekends.<br/>
+#### I pursue lifelong learning and skill development in my spare time.<br/>
 
 
 
 
-Click 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-siang-chang-348650188/)
+Contact me 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-siang-chang-348650188/)
 
 
 <!-- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
