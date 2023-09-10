@@ -57,10 +57,7 @@ Here are some ideas to get you started:
 
 
 
-
-Skills I Have 👀:
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<!-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -77,4 +74,4 @@ Skills I Have 👀:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-![yscpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yscpeak&show_icons=true&theme=gruvbox_light)
+![yscpeak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yscpeak&show_icons=true&theme=gruvbox_light) -->
