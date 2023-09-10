@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yscpeak&show_icons=true&theme=gruvbox_light">
-</p>
+</p> -->
 
 
 
