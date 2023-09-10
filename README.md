@@ -44,4 +44,6 @@ I pursue lifelong learning and skill development after work and on weekends.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://badgen.net/badge/SQL/blue?icon=sqlite&label
+
+
