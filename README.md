@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I pursue lifelong learning and skill development after work and on weekends.
+# I pursue lifelong learning and skill development after work and on weekends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-siang-chang-348650188/)
 
