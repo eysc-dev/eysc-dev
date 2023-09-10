@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+
 ### <p align="center">*I pursue lifelong learning and skill development in my spare time.*</p><br/>
 
 
