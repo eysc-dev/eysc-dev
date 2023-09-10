@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# I pursue lifelong learning and skill development after work and on weekends.
+#### I pursue lifelong learning and skill development after work and on weekends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-siang-chang-348650188/)
 
@@ -43,7 +43,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-https://badgen.net/badge/SQL/blue?icon=sqlite&label
 
 
