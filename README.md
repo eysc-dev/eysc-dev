@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### <p align="center">*I pursue lifelong learning and skill development in my spare time.*</p><br/>
+### <p align="center">* Work hard during working hours; study hard during personal time. Pursue lifelong learning and skill development.*</p><br/>
 
 
 
