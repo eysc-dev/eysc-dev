@@ -1,4 +1,4 @@
-### <center>Hi there, it's Yi Siang👋</center>
+### <p align="center">Hi there, it's Yi Siang👋</p>
 
 <!--
 **yscpeak/yscpeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-<br/>
 
-#### I pursue lifelong learning and skill development after work and on weekends.
+
+#### I pursue lifelong learning and skill development after work and on weekends.<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-siang-chang-348650188/)
 
