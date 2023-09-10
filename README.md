@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-#### I pursue lifelong learning and skill development in my spare time.<br/>
+#### *I pursue lifelong learning and skill development in my spare time.*<br/>
 
 
 
