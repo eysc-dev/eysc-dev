@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
 #### I pursue lifelong learning and skill development after work and on weekends.
 
