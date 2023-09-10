@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-![Yi-Siang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yscpeak)
+
 ![Yi-Siang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yscpeak&show_icons=true&theme=radical)
