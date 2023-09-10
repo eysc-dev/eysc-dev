@@ -1,4 +1,4 @@
-### <p align="center">Hi there, it's Yi Siang👋</p>
+## <p align="center">Hi there, it's Yi Siang👋</p>
 
 <!--
 **yscpeak/yscpeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-#### *I pursue lifelong learning and skill development in my spare time.*<br/>
+### <p align="center">*I pursue lifelong learning and skill development in my spare time.*</p><br/>
 
 
 
