@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### <p align="center">*Pursue lifelong learning and skill development.*</p><br/>
+### <p align="center">*Lifelong Learning & Skill Development.*</p><br/>
 
 
 
