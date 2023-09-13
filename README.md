@@ -50,12 +50,11 @@ Here are some ideas to get you started:
 </p><br>
 
 <p align="center">
-  <a href="https://github.com/yscpeak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut" />
-  </a>
+![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=vue&exclude=html,css)
+![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yscpeak&theme=dracula&exclude=html,css)
 </p>
 
-![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=default&exclude=html,css)
+
 
 
 
