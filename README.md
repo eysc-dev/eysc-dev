@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=default&exclude=html,css" alt="Top Languages Card">
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yscpeak&theme=default&exclude=html,css" alt="Most Commit Language Card">
 </p>
 
