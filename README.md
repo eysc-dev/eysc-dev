@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 ![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=vue&exclude=html,css)
-![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yscpeak&theme=vue_dark&exclude=html,css)
+![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yscpeak&theme=monokai&exclude=html,css)
 
 
 
