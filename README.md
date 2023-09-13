@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 </p><br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=vue&exclude=css,html" alt="Top Languages Card">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yscpeak&theme=vue&exclude=css,html" alt="Most Commit Language Card">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=vue&exclude=css" alt="Top Languages Card">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yscpeak&theme=vue&exclude=css" alt="Most Commit Language Card">
 </p>
 
 
