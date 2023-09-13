@@ -55,7 +55,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+![Top Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yscpeak&theme=default&exclude=html,css)
+
 
 
 
