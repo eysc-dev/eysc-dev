@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 </p><br>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/yscpeak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut" />
   </a>
 </p>
 
-
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
 
 
 
