@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic">
-
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
