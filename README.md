@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"><strong>Contact me 👉 <strong><a href="https://www.linkedin.com/in/yi-siang-c/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic" alt="LinkedIn"></a></p>
+<p align="center"><strong>Contact me 👉 <strong><a href="https://www.linkedin.com/in/yi-siang-c/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square" alt="LinkedIn"></a></p>
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=plastic)
 
