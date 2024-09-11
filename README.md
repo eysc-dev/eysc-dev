@@ -33,8 +33,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <!--  來源：https://dev.to/envoy_/150-badges-for-github-pnk  
-  https://dev.to/envoy_/150-badges-for-github-pnk
+  <!--  
+  來源1：
+  https://dev.to/envoy_/150-badges-for-github-pnk  
+  來源2：
+  https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges
   -->
   
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -53,6 +56,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   
