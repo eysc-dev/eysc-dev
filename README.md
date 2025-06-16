@@ -1,4 +1,4 @@
-## <p align="center"> Hi there, it's Erin👋 </p>
+## <p align="center"> Hi there, it's Erin👋</p>
 
 <!--
 **yscpeak/yscpeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
